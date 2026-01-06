@@ -99,8 +99,6 @@ VCLASS_USERNAME=USERNAME_VCLASS
 VCLASS_PASSWORD=PASSWORD_VCLASS
 ```
 
-⚠️ **Jangan upload `.env` ke GitHub**
-
 ---
 
 ## ▶️ Menjalankan Bot
@@ -135,6 +133,5 @@ MIT License
 ---
 
 ## 🙌 Author
-
-Personal automation project  
-Made with ☕ + deadline
+ChatGPT 
+KepoX
