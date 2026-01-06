@@ -73,7 +73,7 @@ vclass-telegram-bot/
 │
 ├─ bot.py
 ├─ moodle.py
-├─ requirements.txt
+├─ req.txt
 ├─ .env
 └─ README.md
 ```
@@ -83,7 +83,7 @@ vclass-telegram-bot/
 ## ⚙️ Instalasi
 
 ```bash
-pip install -r requirements.txt
+pip install -r req.txt
 playwright install chromium
 ```
 
